@@ -1,0 +1,44 @@
+[
+  [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Tunich House",
+      "price": 20000,
+      "img": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aG91c2V8ZW58MHx8MHx8&w=1000&q=80",
+      "info": "12000 Sq Ft Triplex Residence Is Ready For Rent At Baridhara K Block."
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "title": "Melbourne VIC, Australia",
+      "price": 11000,
+      "img": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE2fHx8ZW58MHx8fHw%3D&w=1000&q=80",
+      "info": "Well Planned Flat For Rent In Uttara Near The Aga Khan School"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "title": "Marblehead Neck, Marblehead, MA, USA",
+      "price": 13000,
+      "img": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyamin-mellish-186077.jpg&fm=jpg",
+      "info": "2200 Sq Ft Luxurious Apartment Is Ready For Rent In Gulshan 2 Near Gulshan Police Station"
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "title": "Estonia",
+      "price": 15000,
+      "img": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aG91c2V8ZW58MHx8MHx8&w=1000&q=80",
+      "info": "Your Dream Home Including 3 Bedroom Is Ready To Be Rented At Chandrima Model Town"
+    },
+    {
+      "userId": 5,
+      "id": 5,
+      "title": "tlanta, GA, USA",
+      "price": 12000,
+      "img": "https://i.pinimg.com/550x/fc/07/40/fc0740d7c26d93974e117cb88a81bc36.jpg",
+      "info": "See This 3000 Sq Ft Residential Apartment To Rent Located In Sector 3, Uttara"
+    }
+  ]
+]
